@@ -2,7 +2,7 @@
 
 A domain-aware parser that extracts structured, machine-readable JSON from handwritten materials science lab notebook pages using Vision-Language Models (VLMs).
 
-Built as a take-home assignment for LabAlly to digitize dense experimental records (Li electrodeposition, glyme electrolytes) by combining VLM vision capabilities with strict schema validation and scientific post-processing.
+Built to digitize dense experimental records (Li electrodeposition, glyme electrolytes) by combining VLM vision capabilities with strict schema validation and scientific post-processing.
 
 ---
 
