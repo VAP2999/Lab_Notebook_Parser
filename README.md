@@ -98,7 +98,7 @@ labnotebook-parser/
 ## Setup
 
 ```bash
-git clone https://github.com/VAP2999/labnotebook-parser.git
+git clone https://github.com/VAP2999/Lab_Notebook_Parser.git
 cd labnotebook-parser
 
 python3 -m venv venv
